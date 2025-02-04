@@ -38,8 +38,10 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I went to office hours
 	+ I went to class on Thursday
 	+ I met Ryan on Thursday
-
+	+ We finished the Unit O assessment!!
 - Week 3
+	+ i attended class on Tuesday
+	+ I met Cat and we worked on Unit 1 together-ish
 - Week 4
 - Week 5
 - Week 6
